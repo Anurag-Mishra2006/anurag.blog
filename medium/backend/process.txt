@@ -1,0 +1,14 @@
+for generating the accelarate prisma url 
+    1. go to the https://console.prisma.io/cmlgcs1up04xmzcfoxft3qq1l/overview
+    2. click on new project
+    3. give the name for the project  
+    4. You can see Accelarate, click on the get started and then add your db url here 
+    5. go to the accelarate section of the project and click on the generating connection string
+    6. paste this link to the .env
+    7. use this string as pooling url
+
+imports to add prisma with db
+
+for client : 
+    npm install @prisma/extension-accelerate
+    
