@@ -1,4 +1,4 @@
-# 🚀 Medium-like Blog Platform (Week 13 Project)
+# 🚀 Medium-like Blog Platform
 
 A full-stack blog application inspired by Medium, where users can create, read, and update blog posts. Built using a modern serverless backend and a fast React frontend.
 
@@ -89,8 +89,8 @@ Web_development/
 ### 🔹 Clone Repository
 
 ```bash id="w5e2u0"
-git clone https://github.com/Anurag-Mishra2006/Web_development/tree/main/week13/medium.git
-cd Web_development/week13/medium
+git clone https://github.com/Anurag-Mishra2006/anurag.blog.git
+cd Web_development/week13/medium-clone/medium
 ```
 
 ---
@@ -204,7 +204,7 @@ MIT License
 ## 👨‍💻 Author
 
 **Anurag Mishra**
-GitHub: https://github.com/Anurag-Mishra2006/Web_development/tree/main/week13
+GitHub: https://github.com/Anurag-Mishra2006/anurag.blog.git
 
 ---
 
