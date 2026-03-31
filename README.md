@@ -6,7 +6,7 @@ A full-stack blog application inspired by Medium, where users can create, read, 
 
 ## 🌐 Live Demo
 
-👉 Frontend: *[vercel url](https://medium-pi-peach.vercel.app/)*
+👉 Frontend: *[vercel url](https://myblog-five-coral.vercel.app/)*
 
 👉 Backend API: *[Cloudflare Worker URL](https://medium.formal-syntax.workers.dev/)*
 
